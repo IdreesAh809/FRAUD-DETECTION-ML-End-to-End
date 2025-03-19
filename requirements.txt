@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+
+# GPU-Accelerated Libraries
+xgboost
+cuml
+
+# Colab & Cloud Storage
+google-colab
+
+# Data Visualization (if used in exploration)
+matplotlib
+seaborn

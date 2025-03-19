@@ -1,6 +1,7 @@
 # Ignore virtual environment
 venv/
 .env
+*.venv
 
 # Ignore system-specific files
 __pycache__/
@@ -12,11 +13,14 @@ __pycache__/
 
 # Ignore environment-related files
 *.env
-*.venv
 
 # Ignore logs and temporary files
 *.log
 *.tmp
+
 # Ignore dataset files
 data/raw/
 data/processed/
+
+# Ignore models stored in Google Drive
+models/
