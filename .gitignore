@@ -22,5 +22,4 @@ __pycache__/
 data/raw/
 data/processed/
 
-# Ignore models stored in Google Drive
-models/
+git
