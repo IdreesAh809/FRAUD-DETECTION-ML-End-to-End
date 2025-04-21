@@ -8,6 +8,7 @@ joblib
 # GPU-Accelerated Libraries
 xgboost
 cuml
+cupy
 
 # Colab & Cloud Storage
 google-colab
@@ -15,3 +16,7 @@ google-colab
 # Data Visualization (if used in exploration)
 matplotlib
 seaborn
+
+
+
+
